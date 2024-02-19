@@ -1,0 +1,6 @@
+bs4
+PyPDF2
+requests
+aiogram
+python-dotenv
+APScheduler
